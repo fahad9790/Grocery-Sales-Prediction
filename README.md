@@ -9,5 +9,4 @@ Data Description
 
 Train.csv – 692 observations
 Test.csv – 90 observations
-Sample Submission – Sample format for the submission
 Target Variable: GrocerySales
